@@ -1,0 +1,47 @@
+
+    header
+    navigation:gray
+    
+    content:
+            left_sidebar:black
+            headline:green
+            product_box:pink
+        
+     content_end
+
+    footer:green
+               
+         
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    header
+    navigation:gray
+    
+    content:
+         left_sidebar:black
+         right content:
+              headline:green
+              product_box:pink
+         rc_end
+     content_end
+
+    footer:green
+               
+         
